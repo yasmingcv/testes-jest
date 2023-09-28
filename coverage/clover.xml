@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1695920134311" clover="3.2.0">
+  <project timestamp="1695920134311" name="All files">
+    <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="2" elements="9" coveredelements="7" complexity="0" loc="4" ncloc="4" packages="1" files="1" classes="1"/>
+    <file name="matematica.js" path="/Users/22282215/Documents/testes-unitarios/matematica.js">
+      <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="2"/>
+      <line num="4" count="4" type="stmt"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="12" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="15" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
